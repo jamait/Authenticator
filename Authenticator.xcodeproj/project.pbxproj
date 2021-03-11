@@ -571,7 +571,7 @@
 				CLASSPREFIX = OTP;
 				LastSwiftMigration = 0700;
 				LastSwiftUpdateCheck = 1000;
-				LastUpgradeCheck = 0930;
+				LastUpgradeCheck = 1240;
 				ORGANIZATIONNAME = "Matt Rubin";
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
@@ -785,7 +785,7 @@
 					"$(BUILT_PRODUCTS_DIR)",
 				);
 				GCC_DYNAMIC_NO_PIC = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
@@ -800,7 +800,7 @@
 					"$(BUILT_PRODUCTS_DIR)",
 				);
 				GCC_DYNAMIC_NO_PIC = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
@@ -832,7 +832,7 @@
 			baseConfigurationReference = C944A5731A7F772600E08B1E /* iOS-Application.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = AuthenticatorScreenshots/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				PRODUCT_BUNDLE_IDENTIFIER = me.mattrubin.authenticator.screenshots;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = Authenticator;
@@ -844,7 +844,7 @@
 			baseConfigurationReference = C944A5731A7F772600E08B1E /* iOS-Application.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = AuthenticatorScreenshots/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				PRODUCT_BUNDLE_IDENTIFIER = me.mattrubin.authenticator.screenshots;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = Authenticator;
